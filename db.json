@@ -1,9 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "users": [
+    { "Id": 1, "Name": "jitendra", "Address": "Latur" },
+    { "Id": 2, "Name": "aniket", "Address": "Pune" },
+    { "Id": 3, "Name": "ajay", "Address": "Latur" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employees": [
+    { "Id": 1, "Name": "jitendra", "Dept": "Software","Age":32 },
+    { "Id": 2, "Name": "rajesh", "Dept": "HR","Age":30 },
+    { "Id": 3, "Name": "vijay", "Dept": "Marketing","Age":32 }
+  ]
 }
