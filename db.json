@@ -8,5 +8,10 @@
     { "Id": 1, "Name": "jitendra", "Dept": "Software","Age":32 },
     { "Id": 2, "Name": "rajesh", "Dept": "HR","Age":30 },
     { "Id": 3, "Name": "vijay", "Dept": "Marketing","Age":32 }
+  ],
+  "hmsdata":[
+    {"id":1, "name":"abcd","address":"pune","mobile":"1234","email":"abcd@gmail.com"},
+    {"id":2, "name":"pqrs","address":"pune","mobile":"1234","email":"pqrs@gmail.com"},
+    {"id":3, "name":"xyz","address":"pune","mobile":"1234","email":"xyz@gmail.com"}
   ]
 }
